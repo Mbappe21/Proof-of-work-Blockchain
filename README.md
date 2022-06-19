@@ -1,5 +1,5 @@
 ## Local Blockchain
-This project illustrates the miners' job on a proof of work Blockchain.
+This project illustrates the miners' job on a blockchain using proof of work.
 
 1. Run `npm install`
 
